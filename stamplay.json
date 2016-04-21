@@ -1,0 +1,10 @@
+{
+  "appId": "hotboy",
+  "apiKey": "ddcb6cac151c7efa049bdf6d448a2623bf8d33bc825e7f2e9c11c56ebd4ea64a",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
